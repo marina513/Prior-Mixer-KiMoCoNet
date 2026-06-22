@@ -20,4 +20,4 @@ datasets demonstrate that the proposed method achieves stable performance compar
 the-art approaches, improving SSIM from 0.765 to 0.962 and PSNR from 25 dB to 35 dB. Notably,
 the method exhibits improved robustness under severe motion and reduced reconstruction
 variance. These results highlight the importance of explicitly modeling k-space corruption and
-selectively utilizing reliable prior information for accurate and stable MRI reconstruction. ![alt text](http://url/to/img.png)
+selectively utilizing reliable prior information for accurate and stable MRI reconstruction. ![alt text](https://github.com/marina513/Prior-Mixer-KiMoCoNet/blob/main/Architecture.PNG)
